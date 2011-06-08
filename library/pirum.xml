@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+<name>tankist.github.com/skaya</name>
+<summary>Skaya Zend Framework Extensions PEAR Channel Server</summary>
+<alias>tankist</alias>
+<url>http://tankist.github.com/skaya</url>
+</server>

@@ -1,0 +1,6 @@
+*.log
+*.bak
+.idea/
+.nbproject/
+tests/report/
+cache/
